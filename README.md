@@ -1,4 +1,4 @@
-![od_806x500](https://github.com/user-attachments/assets/013ad3ac-219b-4316-a31b-2130b51da5a9)
+![img](https://github.com/user-attachments/assets/ab265e9d-1089-418f-944e-eb534c83190b)
 
 ## OllyDbg所有版本(上傳中...)
 
